@@ -1,0 +1,7 @@
+BETA 1.0
+********
+- game engine and rules are working perfectly
+- requires
+	- undo/redo move
+	- modularize project
+	- ...

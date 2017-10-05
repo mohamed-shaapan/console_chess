@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450272434 source:e:\others\02 - c projects\project#001 - chess game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Set Piece Next Valid Positions.h"
+
+1450272028 e:\others\02 - c projects\project#001 - chess game\set piece next valid positions.h
+
